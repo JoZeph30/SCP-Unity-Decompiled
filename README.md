@@ -4,3 +4,5 @@ This decompile was made for reviving the old and cancelled game from 2021. Now y
 For opening this you need to have an old version of unity (2017.3.0f3). some of the code needs to be fixed I have fixed some of the issues, if you have experience consider yourself to fix it.
 
 LICENSED BY: Creative Commons ShareAlike 3.0 and that the source files of the Unity engine, FMOD sound engine, and all other third party software are the properties of their respective owners and not released under CC-BY SA thing
+
+When you are trying to open the decomp please start it with safe mode
